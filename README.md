@@ -25,9 +25,9 @@ I'm a data science enthusiast with a background in translation and languages —
 ---
 
 ### 📚 Planning to Learn
-SQL for analytics
-Data engineering basics
-Cloud tools (e.g., Azure, AWS) — after gaining work experience
+- SQL for analytics
+- Data engineering basics
+- Cloud tools (e.g., Azure, AWS) — after gaining work experience
 
 ---
 
