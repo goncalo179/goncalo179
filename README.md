@@ -33,7 +33,7 @@ I'm a data science enthusiast with a background in translation and languages —
 
 ### 📬 Let's Connect!
 - 📧 Email: goncalo179@gmail.com
-- 💼 [LinkedIn]((https://www.linkedin.com/in/gonçalo-lourenço179/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/gonçalo-lourenço179/)
 - 🧠 Always open to collaboration or data projects!
 
 ---
