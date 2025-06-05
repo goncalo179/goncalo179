@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Gonçalo
 
-I'm a data science enthusiast with a background in translation and languages — now fully immersed in turning complex data into actionable insights. After pivoting from a master's in translation to data science, I've completed multiple end-to-end projects involving recommendation systems, customer behavior analysis, and lead prioritization using machine learning.
+I'm a data science enthusiast now fully immersed in turning complex data into actionable insights. I've completed multiple end-to-end projects involving recommendation systems, customer behavior analysis, and lead prioritization using machine learning.
 
 ---
 
